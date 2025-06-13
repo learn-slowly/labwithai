@@ -3,7 +3,7 @@ layout: post
 title: Dive to LAB
 subtitle: 어쩌다 AI와 함께
 author: Pagezero
-categories: 'build and deploy'
+categories: "build-and-deploy"
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -21,7 +21,7 @@ top: 1
 sidebar: []
 ---
 
-## Learn and Build
+## LAB = Learn and Build
 
 ### Previous Story
 
