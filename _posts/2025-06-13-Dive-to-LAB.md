@@ -18,7 +18,7 @@ banner:
   subheading_style: "color: gold"
 tags: withai
 top: 1
-sidebar: [TOC]
+sidebar: []
 ---
 
 ## LAB = Learn and Build
