@@ -228,3 +228,10 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: "jeffreytse/jekyll-theme-yat"
+
+# Photo previewer
+photo_previewer:
+  gallery: "section.main"
+  children: "a.photo-swipe"
+  photo_scale: 2
+  pswpModule: PhotoSwipe
