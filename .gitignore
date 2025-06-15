@@ -3,3 +3,6 @@
 .sass-cache
 _site
 Gemfile.lock
+
+# 비밀 정보 포함 파일
+.obsidian/plugins/remotely-save/main.js

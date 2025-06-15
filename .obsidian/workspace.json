@@ -11,14 +11,10 @@
             "id": "55467a90cc2d31d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2015-01-01-welcome-to-jekyll.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2015-01-01-welcome-to-jekyll"
+              "title": "새 탭"
             }
           }
         ]
