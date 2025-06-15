@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27d5a34bb1907ba7",
+        "id": "cb67384d70db9afe",
         "type": "tabs",
-        "dimension": 81.23827392120076,
         "children": [
           {
-            "id": "55467a90cc2d31d9",
+            "id": "69e1ae5f12507009",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-06-15-이-구역의-미친-아만자는-나야"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb67384d70db9afe",
-        "type": "tabs",
-        "dimension": 18.76172607879925,
-        "children": [
-          {
-            "id": "69e1ae5f12507009",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
             }
           }
         ]
@@ -199,11 +181,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "55467a90cc2d31d9",
+  "active": "69e1ae5f12507009",
   "lastOpenFiles": [
-    "_posts/2025-06-13-Dive-to-LAB.md",
     "_posts/2025-06-13-가장-강한-털은.md",
     "_posts/2025-06-15-이-구역의-미친-아만자는-나야.md",
+    "assets/videos/Oasis_-_Don_t_Look_Back_In_Anger_Official_Video-[r.mp4",
+    "_posts/2025-06-13-Dive-to-LAB.md",
     "_includes/sidebar/article.html",
     "_posts_example/2025-06-13-welcome-to-kejyll.md",
     "_posts/2018-12-05-an-exhibit-of-markdown.md",
