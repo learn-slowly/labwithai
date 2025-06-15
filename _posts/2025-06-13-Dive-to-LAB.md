@@ -2,7 +2,7 @@
 layout: post
 title: Dive to LAB
 subtitle: 어쩌다 AI와 함께
-author: Pagezero
+author: pagezero
 categories: "Build-and-Deploy"
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
