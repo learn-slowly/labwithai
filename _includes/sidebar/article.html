@@ -1,0 +1,22 @@
+{%- if page.sidebar -%}
+<div class="sidebar">
+  {%- for item in page.sidebar -%}
+    {%- case item -%}
+      {%- when 'article-menu' -%}
+        <div class="sidebar-item">
+          <h3>목차</h3>
+          <ul class="toc">
+            {%- for heading in page.content | split: '##' -%}
+              {%- if heading contains '###' -%}
+                {%- assign title = heading | split: '###' | first | strip -%}
+                {%- if title != '' -%}
+                  <li><a href="#{{ title | slugify }}">{{ title }}</a></li>
+                {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+          </ul>
+        </div>
+    {%- endcase -%}
+  {%- endfor -%}
+</div>
+{%- endif -%} 
